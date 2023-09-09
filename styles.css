@@ -40,4 +40,40 @@
     font-family: 'Indie Flower', cursive;
   
   }
+ 
+
+/* Styling for buttons */
+.btn button {
+  background-color: #4ECCA3;
+  color: #393E46;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  margin: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn button:hover {
+  background-color: #232931;
+  color: #4ECCA3;
+}
+
+
+.btn {
+  text-align: center;
+}
+
+
+.btn::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+#choice{
+  color: magenta;
+  font-weight: bold;
+  font-style: oblique;
+}
+
   
