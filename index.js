@@ -29,7 +29,7 @@ function updateResult() {
     (randomNumber1 === 2 && randomNumber2 === 1) ||
     (randomNumber1 === 3 && randomNumber2 === 2)
   ) {
-    document.querySelector(".container h1").innerHTML = "You lost";
+    document.querySelector(".container h1").innerHTML = "Better luck next time";
   } else {
     document.querySelector(".container h1").innerHTML = "You won";
   }
