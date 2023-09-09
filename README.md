@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 
 ## Play the Game
-You can play the game by clicking on the following link: [Play Rock Paper Scissors]()
+You can play the game by clicking on the following link: [Play Rock Paper Scissors](https://adityasingh151.github.io/Rock-Paper-Scissor/)
 
 ## Overview
 This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. It allows two players to compete against each other by selecting one of three options: Rock, Paper, or Scissors. The game randomly assigns choices to both players and determines the winner based on the rules of the game.
